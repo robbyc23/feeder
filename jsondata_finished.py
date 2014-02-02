@@ -1,6 +1,3 @@
-# 
-# Example file for parsing and processing JSON
-#
 
 import urllib2
 import json
